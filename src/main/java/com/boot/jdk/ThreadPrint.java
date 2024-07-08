@@ -4,6 +4,9 @@ import java.lang.management.ManagementFactory;
 import java.lang.management.ThreadInfo;
 import java.lang.management.ThreadMXBean;
 
+/**
+ * L1
+ */
 public class ThreadPrint {
     public static void main(String[] args)throws Exception {
         // 获取JAVA 线程管理MXBean
